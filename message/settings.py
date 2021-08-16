@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0$0-fli!*t(3^o@1wx^!)j9g%s#q8gndwx)#@3-=%u)5@)rn_x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['msg.mirobotic.tech']
 
 
 # Application definition
